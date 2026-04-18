@@ -35,7 +35,7 @@ src/
 
 
  ## Screenshots
-![Student App Output](./src/output/output.png)
+![Profile App Output](./src/output/output.png)
 
 
  ## How to Run
