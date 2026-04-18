@@ -35,7 +35,7 @@ src/
 
 
  ## Screenshots
-
+![Resume Output](.\src\output\output.png)
 
 
  ## How to Run
